@@ -1,6 +1,6 @@
 import { useReducer } from "react";
 
-import AddCarForm from "../components/AddCarForm";
+import AddCarForm from "../Components/AddCarForm";
 
 import {
     carReducer,
