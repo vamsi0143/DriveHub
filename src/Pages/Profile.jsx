@@ -1,11 +1,11 @@
 import { useReducer } from "react";
 
-import AddCarForm from "../components/AddCarForm";
+import AddCarForm from "../Components/AddCarForm";
 
 import {
     carReducer,
     initialState,
-} from "../reducer/carReducer";
+} from "../Reducer/carReducer";
 
 function Profile() {
     const [state, dispatch] = useReducer(
