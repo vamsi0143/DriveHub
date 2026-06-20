@@ -1,13 +1,13 @@
-import bmw from "../assets/cars/bmw.jpg";
-import audi from "../assets/cars/audi.jpg";
-import mercedes from "../assets/cars/mercedes.jpg";
-import tesla from "../assets/cars/tesla.jpg";
-import lamborghini from "../assets/cars/lamborghini.jpg";
-import ferrari from "../assets/cars/ferrari.jpg";
-import rangeRover from "../assets/cars/range-rover.jpg";
-import xuv700 from "../assets/cars/xuv700.jpg";
-import ioniq5 from "../assets/cars/ioniq5.jpg";
-import ev6 from "../assets/cars/ev6.jpg";
+import bmw from "../assets/Cars/bmw.jpg";
+import audi from "../assets/Cars/audi.jpg";
+import mercedes from "../assets/Cars/mercedes.jpg";
+import tesla from "../assets/Cars/tesla.jpg";
+import lamborghini from "../assets/Cars/lamborghini.jpg";
+import ferrari from "../assets/Cars/ferrari.jpg";
+import rangeRover from "../assets/Cars/range-rover.jpg";
+import xuv700 from "../assets/Cars/xuv700.jpg";
+import ioniq5 from "../assets/Cars/ioniq5.jpg";
+import ev6 from "../assets/Cars/ev6.jpg";
 
 const carsData = [
     {
