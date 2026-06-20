@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import useCars from "../hooks/useCars";
+import useCars from "../Hooks/useCars";
 
 function CarDetails() {
     const { id } = useParams();

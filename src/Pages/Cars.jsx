@@ -4,9 +4,9 @@ import {
     useSearchParams,
 } from "react-router-dom";
 
-import useCars from "../hooks/useCars";
-import CarCard from "../components/CarCard";
-import SearchBar from "../components/SearchBar";
+import useCars from "../Hooks/useCars";
+import CarCard from "../Components/CarCard";
+import SearchBar from "../Components/SearchBar";
 
 function Cars() {
     const { cars, loading } = useCars();
