@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getCars } from "../services/api";
+import { getCars } from "../Services/api";
 
 function useCars() {
     const [cars, setCars] = useState([]);
